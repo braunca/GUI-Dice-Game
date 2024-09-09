@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SillyDice
+comment0.text=\r\n\ dice\ game\ that\ guesses\ the\ value\ that\ will\ be\ rolled\ using\ three\ dice\r\n\ \r\n\ @author\ Casey\ Braun\r\n\ @author\ Jonathan\ Hogenmiller\r\n\ @version\ 3/1/2017\r\n
+comment1.params=
+comment1.target=SillyDice()
+comment1.text=\r\n\ default\ constructor\ \r\n
+comment2.params=
+comment2.target=int\ getCredits()
+comment2.text=\r\n\ return\ the\ current\ score\r\n\ @return\ credit\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment3.text=\r\n\ \r\n\ @return\ message\r\n
+comment4.params=g
+comment4.target=void\ makeGuess(int)
+comment4.text=\r\n\ roll\ the\ dice\ and\ compare\ the\ guess\ g\ with\ the\ rolled\ values\ by\ invoking\:\ rollDice()\ and\ checkMatches()\r\n\ \r\n
+comment5.params=
+comment5.target=void\ rollDice()
+comment5.text=\r\n\ \r\n\ \r\n
+comment6.params=
+comment6.target=void\ checkMatches()
+comment6.text=\r\n\ \r\n\ \r\n
+comment7.params=num
+comment7.target=GVdie\ getDie(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
